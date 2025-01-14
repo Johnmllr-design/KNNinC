@@ -1,4 +1,4 @@
-K-Nearest Neighbors (KNN) in C
+**K-Nearest Neighbors (KNN) in C**
 
 This project implements the K-Nearest Neighbors (KNN) algorithm in C for classification tasks. The KNN algorithm is a simple, yet powerful machine learning technique used to classify data points based on their proximity to labeled training data.
 
@@ -18,9 +18,11 @@ Usage
 Clone the repository:
 git clone [https://github.com/your-username/KNNinC.git](https://github.com/Johnmllr-design/KNNinC.git)
 cd KNNinC
-Compile the program:
-gcc -o KNN KNN.c
-Run the program:  ./knn
+
+
+**Instructions**
+run the getData.py file to access the yFinance API that will provide KNN with data
+compile and run KNN.c via clang -o KNN KNN.c and ./KNN to see how it thins tomorrowe will behave
 
 running the program will train based on the data and then view the current optimized k nearest neighbors to make it's inference.
 
