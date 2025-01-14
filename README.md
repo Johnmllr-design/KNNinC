@@ -1,4 +1,4 @@
-***K-Nearest Neighbors (KNN) in C***
+****K-Nearest Neighbors (KNN) in C****
 
 This project implements the K-Nearest Neighbors (KNN) algorithm in C for classification tasks. The KNN algorithm is a simple, yet powerful machine learning technique used to classify data points based on their proximity to labeled training data.
 
@@ -16,7 +16,7 @@ No external libraries are required.
 Usage
 
 Clone the repository:
-git clone [https://github.com/your-username/KNNinC.git](https://github.com/Johnmllr-design/KNNinC.git)
+git clone https://github.com/Johnmllr-design/KNNinC.git
 cd KNNinC
 
 
